@@ -1,2 +1,1 @@
-export * from './authController'
-export * from './protectController'
+export * from "./apiv1.controller";
